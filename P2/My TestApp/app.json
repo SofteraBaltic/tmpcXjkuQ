@@ -1,0 +1,44 @@
+{
+  "id": "0252fd9e-0c22-45d4-84e7-6a5604028c79",
+  "name": "My TestApp",
+  "publisher": "My Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "publisher": "Microsoft",
+      "version": "22.0.0.0",
+      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "name": "Library Assert"
+    },
+    {
+      "publisher": "Microsoft",
+      "version": "22.0.0.0",
+      "id": "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
+      "name": "Any"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 58000,
+      "to": 59000
+    }
+  ],
+  "features": [
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
