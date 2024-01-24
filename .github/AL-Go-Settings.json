@@ -1,0 +1,9 @@
+{
+  "type": "PTE",
+  "templateUrl": "https://github.com/SofteraBaltic/tmpHOT5wY-PTE@main",
+  "useCompilerFolder": false,
+  "MicrosoftTelemetryConnectionString": "",
+  "doNotPublishApps": false,
+  "shell": "pwsh",
+  "runs-on": "ubuntu-latest"
+}
